@@ -100,21 +100,21 @@ npm run build
 
 ## 🎯 Diferenciais do Projeto
 
-✨ Integração com API real (Scryfall)
-✨ Conversão dinâmica de moeda
-✨ Gerenciamento de estado consistente
-✨ Persistência de dados no cliente
-✨ UI moderna com Tailwind
+✨ Integração com API real (Scryfall) <br>
+✨ Conversão dinâmica de moeda <br>
+✨ Gerenciamento de estado consistente <br>
+✨ Persistência de dados no cliente <br>
+✨ UI moderna com Tailwind <br>
 
 ---
 
 ## 🧭 Próximos Passos (Evolução)
 
-* 🧾 Checkout completo
-* 🔐 Autenticação de usuário
-* 🗄️ Backend próprio (Node.js)
-* 💳 Integração com pagamento
-* 📊 Dashboard de vendas
+* 🧾 Checkout completo <br>
+* 🔐 Autenticação de usuário <br>
+* 🗄️ Backend próprio (Node.js) <br>
+* 💳 Integração com pagamento <br>
+* 📊 Dashboard de vendas <br>
 
 ## Link 
 
