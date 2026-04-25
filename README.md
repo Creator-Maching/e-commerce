@@ -1,7 +1,7 @@
-## 🛒✨ MTG E-Commerce — Seu Marketplace de Cartas Magic
+## 🛒✨ MTG E-Commerce — Seu Marketplace de Cartas Magic <br>
 
-Bem-vindo ao seu projeto de e-commerce de cartas de **Magic: The Gathering** ⚡
-Este não é apenas mais um projeto — é a materialização do seu aprendizado em **frontend + backend thinking**, integrando APIs reais, estado global e experiência de usuário.
+Bem-vindo ao seu projeto de e-commerce de cartas de **Magic: The Gathering** ⚡ <br>
+Este não é apenas mais um projeto — é a materialização do seu aprendizado em **frontend, integrando APIs reais, estado global e experiência de usuário.
 
 ---
 
