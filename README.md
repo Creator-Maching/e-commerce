@@ -1,4 +1,4 @@
-# 🛒✨ MTG E-Commerce — Seu Marketplace de Cartas Magic
+## 🛒✨ MTG E-Commerce — Seu Marketplace de Cartas Magic
 
 Bem-vindo ao seu projeto de e-commerce de cartas de **Magic: The Gathering** ⚡
 Este não é apenas mais um projeto — é a materialização do seu aprendizado em **frontend + backend thinking**, integrando APIs reais, estado global e experiência de usuário.
@@ -63,12 +63,10 @@ O sistema permite buscar cartas, visualizar detalhes e montar um carrinho de com
 
 ## 🧠 Arquitetura (como você pensou o projeto)
 
-* Separação clara de responsabilidades
-* Componentização reutilizável
-* Estado global desacoplado
-* Consumo de APIs externas tratado de forma isolada
-
-Esse projeto não foi só “feito” — ele foi **entendido**.
+* Separação clara de responsabilidades <br>
+* Componentização reutilizável <br>
+* Estado global desacoplado <br>
+* Consumo de APIs externas tratado de forma isolada <br>
 
 ---
 
@@ -118,6 +116,7 @@ npm run build
 * 💳 Integração com pagamento
 * 📊 Dashboard de vendas
 
+## Link 
 
+https://e-commerce-rf196na4o-pedros-projects-da4f1691.vercel.app/#
 
-E isso muda completamente o jogo. 🚀
